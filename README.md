@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks!  
 
 - 👋 Hi, I’m Yu, I am a scientist in quantitative genetics and genomics
 - 👀 I’m interested in quantitative genetics, conservation genetics, genomics and bioinformatics
