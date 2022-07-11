@@ -19,7 +19,7 @@
 
 I am a Scientist in Quantitative Genetics and Genomics from China.
 
-- :cow2: Ph.D. (magna cum laude) in animal breeding and genetics, University of Hohenheim, Germany (06/09/2018)
+- :cow2: Ph.D. (*magna cum laude*) in animal breeding and genetics, University of Hohenheim, Germany (06/09/2018)
 
 - :kiwi_fruit: Based in Hamilton, New Zealand with my partner and our cutie cat :cat:
 
