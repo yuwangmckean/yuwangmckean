@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/yuwangnz/)">
+  <a href="https://www.linkedin.com/in/yuwangnz/">
     <img src="https://simpleicons.org/icons/linkedin.svg"  width="30"/>
   </a>
-  <a href="[your-youtube-URL](https://www.researchgate.net/profile/Yu-Wang-303)">
+  <a href="https://www.researchgate.net/profile/Yu-Wang-303">
     <img src="https://simpleicons.org/icons/researchgate.svg" width="30"/>
   </a>
 </div>
