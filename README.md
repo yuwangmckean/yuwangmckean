@@ -4,10 +4,10 @@
 
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/yuwangnz/)">
+  <a href="[https://www.linkedin.com/in/yuwangnz/](https://www.linkedin.com/in/yuwangnz/)">
     <img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png"  width="100"/>
   </a>
-  <a href="[your-linkedin-URL](https://www.researchgate.net/profile/Yu-Wang-303)">
+  <a href="[https://www.researchgate.net/profile/Yu-Wang-303](https://www.researchgate.net/profile/Yu-Wang-303)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png"  width="45"/>
   </a>
 </div>
