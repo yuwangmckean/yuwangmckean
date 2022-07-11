@@ -5,7 +5,10 @@
 
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/yuwangnz/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png"  width="100"/>
+  </a>
+  <a href="[your-linkedin-URL](https://www.researchgate.net/profile/Yu-Wang-303)">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png"  width="45"/>
   </a>
 </div>
 
@@ -17,7 +20,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me :
 
-I am a Scientist in Quantitative Genetics and Genomics from China.
+I am a Scientist in Quantitative Genetics and Genomics.
 
 - :cow2: Ph.D. (*magna cum laude*) in animal breeding and genetics, University of Hohenheim, Germany (06/09/2018)
 
