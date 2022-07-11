@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
 </div>
 
 
@@ -15,14 +15,16 @@
 </h1>
 
 
-### :woman_technologist: About Me :
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me :
 
-I am a Scientist in Quantitative Genetics and Genomics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+I am a Scientist in Quantitative Genetics and Genomics from China.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :cow2: Ph.D. (magna cum laude) in animal breeding and genetics, University of Hohenheim, Germany (06/09/2018)
 
-- :seedling: Exploring Technical Content Writing.
+- :kiwi_fruit: Based in Hamilton, New Zealand with my partner and our cutie cat :cat:
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :dna: My research interest are: quantitative genetics, genomics, bioinformatics, conservation genomics etc. My current challenges are to make optimal use of whole-genome sequence data in dairy cattle breeding.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :camping: In my free time, I love reading, travelling, cooking and hiking. 
+
+- :mailbox_with_mail:How to reach me: [yu.wang@lic.co.nz](mailto:yu.wang@lic.co.nz)
