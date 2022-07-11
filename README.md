@@ -33,4 +33,7 @@ I am a Scientist in Quantitative Genetics and Genomics.
   <a href="https://www.researchgate.net/profile/Yu-Wang-303">
     <img src="https://simpleicons.org/icons/researchgate.svg" width="30"/>
   </a>
+    <a href="https://orcid.org/0000-0003-3756-6246">
+    <img src="https://simpleicons.org/icons/orcid.svg" width="30"/>
+  </a>
 </div>
