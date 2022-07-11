@@ -6,7 +6,7 @@
 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80"/>
 </h1>
 
 
