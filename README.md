@@ -2,14 +2,6 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/yuwangnz/">
-    <img src="https://simpleicons.org/icons/linkedin.svg"  width="30"/>
-  </a>
-  <a href="https://www.researchgate.net/profile/Yu-Wang-303">
-    <img src="https://simpleicons.org/icons/researchgate.svg" width="30"/>
-  </a>
-</div>
 
 <h1>
   hey there
@@ -30,3 +22,15 @@ I am a Scientist in Quantitative Genetics and Genomics.
 - :camping: In my free time, I love reading, travelling, cooking and hiking. 
 
 - :mailbox_with_mail:How to reach me: [yu.wang@lic.co.nz](mailto:yu.wang@lic.co.nz)
+
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  You can find me here :
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yuwangnz/">
+    <img src="https://simpleicons.org/icons/linkedin.svg"  width="30"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Yu-Wang-303">
+    <img src="https://simpleicons.org/icons/researchgate.svg" width="30"/>
+  </a>
+</div>
