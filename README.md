@@ -24,7 +24,7 @@ I am a Scientist in Quantitative Genetics and Genomics.
 - :mailbox_with_mail:How to reach me: [yu.wang@lic.co.nz](mailto:yu.wang@lic.co.nz)
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  You can find me here :
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  You can also find me here :
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/yuwangnz/">
