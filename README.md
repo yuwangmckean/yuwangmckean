@@ -21,7 +21,7 @@ I am a Scientist in Quantitative Genetics and Genomics.
 
 - :camping: In my free time, I love reading, travelling, cooking and hiking. 
 
-- :mailbox_with_mail:How to reach me: [yu.wang@lic.co.nz](mailto:yu.wang@lic.co.nz)
+- :mailbox_with_mail:How to reach me: [yu.wang@lic.co.nz](mailto:yu.wang@lic.co.nz) or [yuwangmckean@gmail.com](mailto:yuwangmckean@gmail.com) 
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  You can also find me here :
