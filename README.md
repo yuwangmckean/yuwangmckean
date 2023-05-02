@@ -36,7 +36,7 @@ I am a Scientist in Quantitative Genetics and Genomics.
     <a href="https://orcid.org/0000-0003-3756-6246">
     <img src="https://simpleicons.org/icons/orcid.svg" width="30"/>
   </a>
-      <a href="sensitive-otter.blog">
+      <a href="https://yuwangmckean.wordpress.com/">
     <img src="https://simpleicons.org/icons/wordpress.svg" width="30"/>
   </a>
 </div>
