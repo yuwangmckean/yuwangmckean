@@ -19,7 +19,7 @@ I am a Scientist in Quantitative Genetics and Genomics.
 
 - :dna: My research interest are: quantitative genetics, genomics, bioinformatics, conservation genomics etc. My current challenges are to make optimal use of whole-genome sequence data in dairy cattle breeding.
 
-- :camping: In my free time, I love reading, travelling, cooking and hiking. If the TV is not playing friends, then I must be playing Zelda (BoW/ToK) or stardew valley :video_game:
+- :camping: In my free time, I love reading, travelling, cooking and hiking. If the TV is not playing FRIENDS, then I must be playing Zelda (BoW/ToK) or Stardew Valley :video_game:
 
 - :mailbox_with_mail:How to reach me: [yu.wang@lic.co.nz](mailto:yu.wang@lic.co.nz) or [yuwangmckean@gmail.com](mailto:yuwangmckean@gmail.com) 
 
