@@ -11,7 +11,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me :
 
-I am a Scientist in Quantitative Genetics and Genomics.
+I am a Scientist in Quantitative Genetics at Livestock Improvement Corporation (LIC, NZ).
 
 - :cow2: Ph.D. (*magna cum laude*) in animal breeding and genetics, University of Hohenheim, Germany (06/09/2018)
 
