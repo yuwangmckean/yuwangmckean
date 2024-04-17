@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
-</div>
-
-
 <h1>
   hey there
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80"/>
@@ -13,11 +8,13 @@
 
 I am a Scientist in Quantitative Genetics at Livestock Improvement Corporation (LIC, NZ).
 
-- :cow2: Ph.D. (*magna cum laude*) in animal breeding and genetics, University of Hohenheim, Germany (06/09/2018)
+- :cow2: Ph.D. (*magna cum laude*) in animal breeding and genetics, University of Hohenheim, Germany (06/09/2018). Received 2019 PhD dissertation award from the German Society for Animal Production [DGfZ 2019 Förderpreis](https://www.dgfz-bonn.de/aktuelles/foerderpreis-2019.html)
 
 - :kiwi_fruit: Based in Hamilton, New Zealand with my partner and our cutie cat :cat:
 
-- :dna: My research interest are: quantitative genetics, genomics, bioinformatics, conservation genomics etc. My current challenges are to make optimal use of whole-genome sequence data in dairy cattle breeding.
+- :earth_africa: EMABG program (2013-2015: WUR-BOKU)
+
+- :dna: My research interests are quantitative genetics, genetic diversity, genomics, bioinformatics etc. My current challenge is to make optimal use of whole-genome sequence data in dairy cattle breeding.
 
 - :mailbox_with_mail:How to reach me: [yu.wang@lic.co.nz](mailto:yu.wang@lic.co.nz) or [yuwangmckean@gmail.com](mailto:yuwangmckean@gmail.com) 
 
@@ -25,16 +22,16 @@ I am a Scientist in Quantitative Genetics at Livestock Improvement Corporation (
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  You can also find me here :
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/yuwangnz/">
-    <img src="https://simpleicons.org/icons/linkedin.svg"  width="30"/>
+  <a href="www.linkedin.com/in/yuwangmckean">
+    <img src="https://simpleicons.org/icons/linkedin.svg"  width="35"/>
   </a>
   <a href="https://www.researchgate.net/profile/Yu-Wang-303">
-    <img src="https://simpleicons.org/icons/researchgate.svg" width="30"/>
+    <img src="https://simpleicons.org/icons/researchgate.svg" width="35"/>
   </a>
     <a href="https://orcid.org/0000-0003-3756-6246">
-    <img src="https://simpleicons.org/icons/orcid.svg" width="30"/>
+    <img src="https://simpleicons.org/icons/orcid.svg" width="35"/>
   </a>
       <a href="https://yuwangmckean.wordpress.com/">
-    <img src="https://simpleicons.org/icons/wordpress.svg" width="30"/>
+    <img src="https://simpleicons.org/icons/wordpress.svg" width="35"/>
   </a>
 </div>
