@@ -1,5 +1,5 @@
 <h1>
-  hey there
+  Kia ora 
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80"/>
 </h1>
 
