@@ -8,6 +8,8 @@
 
 I am a Scientist in Quantitative Genetics at Livestock Improvement Corporation (LIC, NZ).
 
+- :earth_africa: EMABG program (2013-2015: WUR-BOKU)
+
 - :mortar_board: Ph.D. (*magna cum laude*) in animal breeding and genetics, University of Hohenheim, Germany (06/09/2018).
 
   Financially supported by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG): Entwicklung von genomweiten Selektionsmethoden zur genetischen Konsolidierung von Nutztierpopulationen.
@@ -16,9 +18,7 @@ I am a Scientist in Quantitative Genetics at Livestock Improvement Corporation (
   
   The thesis has won the PhD dissertation award from the German Society for Animal Production. [DGfZ 2019 Förderpreis](https://www.dgfz-bonn.de/aktuelles/foerderpreis-2019.html)
 
-- :kiwi_fruit: Based in Hamilton, New Zealand with my partner and our cutie cat :cat:
-
-- :earth_africa: EMABG program (2013-2015: WUR-BOKU)
+- :kiwi_fruit: Based in Hamilton, New Zealand, with my partner and our fur baby :cat:
 
 - :dna: My research interests are quantitative genetics, genetic diversity, genomics, bioinformatics etc. My current challenge is to make optimal use of whole-genome sequence data in dairy cattle breeding.
 
