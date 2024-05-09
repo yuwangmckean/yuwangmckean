@@ -8,7 +8,9 @@
 
 I am a Scientist in Quantitative Genetics at Livestock Improvement Corporation (LIC, NZ).
 
-- :mortar_board: Ph.D. (*magna cum laude*) in animal breeding and genetics, University of Hohenheim, Germany (06/09/2018). Financially supported by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG):Entwicklung von genomweiten Selektionsmethoden zur genetischen Konsolidierung von Nutztierpopulationen. Doctoral thesis title: Selection methods for local breeds with historical introgression. Received 2019 PhD dissertation award from the German Society for Animal Production [DGfZ 2019 Förderpreis](https://www.dgfz-bonn.de/aktuelles/foerderpreis-2019.html)
+- :mortar_board: Ph.D. (*magna cum laude*) in animal breeding and genetics, University of Hohenheim, Germany (06/09/2018).
+
+  Financially supported by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG):Entwicklung von genomweiten Selektionsmethoden zur genetischen Konsolidierung von Nutztierpopulationen. Doctoral thesis title: Selection methods for local breeds with historical introgression. Received 2019 PhD dissertation award from the German Society for Animal Production [DGfZ 2019 Förderpreis](https://www.dgfz-bonn.de/aktuelles/foerderpreis-2019.html)
 
 - :kiwi_fruit: Based in Hamilton, New Zealand with my partner and our cutie cat :cat:
 
