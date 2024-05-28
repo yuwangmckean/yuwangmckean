@@ -20,7 +20,7 @@ I am a Scientist in Quantitative Genetics at Livestock Improvement Corporation (
 
 - :kiwi_fruit: Based in Hamilton, New Zealand, with my partner and our fur baby :cat:
 
-- :dna: My research interests are quantitative genetics, genetic diversity, genomics, bioinformatics etc. My current challenge is to make optimal use of whole-genome sequence data in dairy cattle breeding.
+- :dna: My research interests are quantitative genetics, genetic diversity, population genetics, genomics, etc. My current challenge is optimal use of whole-genome sequence data in dairy cattle breeding, especially in the crossbred population.
 
 - :mailbox_with_mail:How to reach me: [yu.wang@lic.co.nz](mailto:yu.wang@lic.co.nz) or [yuwangmckean@gmail.com](mailto:yuwangmckean@gmail.com) 
 
