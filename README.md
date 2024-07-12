@@ -28,7 +28,7 @@ I am a Scientist in Quantitative Genetics at Livestock Improvement Corporation (
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  You can also find me here :
 
 <div id="badges">
-    <a href="www.linkedin.com/in/yuwangmckean">
+    <a href="https://www.linkedin.com/in/yuwangmckean">
     <img src="https://simpleicons.org/icons/linkedin.svg"  width="32"/>
   </a>
     <a href="https://www.researchgate.net/profile/Yu-Wang-303">
