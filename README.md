@@ -18,7 +18,7 @@ I am a Scientist in Quantitative Genetics at Livestock Improvement Corporation (
   
   The thesis has won the PhD dissertation award from the German Society for Animal Production. [DGfZ 2019 Förderpreis](https://www.dgfz-bonn.de/aktuelles/foerderpreis-2019.html)
 
-- :dna: My research interests are quantitative genetics, genetic diversity, population genetics, genomics, etc. My current challenge is optimal use of whole-genome sequence data in dairy cattle breeding, especially in the crossbred population.
+- :dna: A trained quantitative geneticist with research interests in statistical genomics, population genetics, and bioinformatics. Currently focused on optimizing the use of whole-genome sequence data for dairy cattle breeding.
 
 - :kiwi_fruit: Based in Hamilton, New Zealand, with my husband and our fur baby :cat:
 
