@@ -23,18 +23,3 @@ I am a Scientist in Quantitative Genetics at Livestock Improvement Corporation (
 - :kiwi_fruit: Based in Hamilton, New Zealand, with my husband and our fur baby :cat:
 
 - :mailbox_with_mail:How to reach me: [yu.wang@lic.co.nz](mailto:yu.wang@lic.co.nz) or [yuwangmckean@gmail.com](mailto:yuwangmckean@gmail.com) 
-
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  You can also find me here :
-
-<div id="badges">
-    <a href="https://www.linkedin.com/in/yuwangmckean">
-    <img src="https://simpleicons.org/icons/linkedin.svg"  width="32"/>
-  </a>
-    <a href="https://www.researchgate.net/profile/Yu-Wang-303">
-    <img src="https://simpleicons.org/icons/researchgate.svg" width="32"/>
-  </a>
-    <a href="https://orcid.org/0000-0003-3756-6246">
-    <img src="https://simpleicons.org/icons/orcid.svg" width="32"/>
-  </a>
-</div>
